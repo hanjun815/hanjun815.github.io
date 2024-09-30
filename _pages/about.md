@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate @ <a href='https://rpm.snu.ac.kr/'>RPM Robotics Lab</a> at <a href='https://www.snu.ac.kr/'>SNU</a> 
+subtitle: Master's course @ <a href='https://rpm.snu.ac.kr/'>RPM Robotics Lab</a> at <a href='https://www.snu.ac.kr/'>SNU</a> 
 profile:
   align: right
   image: prof_pic.jpg
