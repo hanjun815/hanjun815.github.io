@@ -7,10 +7,8 @@
       value: 15th August 1998
     - name: Languages
       value: Korean, English
-    - name: Skills (Advanced)
-      value: C/C++, Python, MATLAB, ROS, PyTorch, Latex
-    - name: Skills (Novice)
-      value: Solidworks, Assembly
+    - name: Skills
+      value: C/C++, Python, MATLAB, ROS, PyTorch, Linux, Latex, Solidworks
 
 - title: Field of Interest
   type: time_table
@@ -26,14 +24,14 @@
   type: time_table
   contents:
     - title: M.S.
-      institution: Seoul National University (SNU), Seoul, South Korea
+      institution: Seoul National University, Seoul, South Korea
       year: 2024.03. - Now
       description:
         - Dept. of Future Automotive Mobility
         - Being Advised by Dr. Ayoung Kim
 
     - title: B.S.
-      institution: Seoul National University (SNU), Seoul, South Korea
+      institution: Seoul National University, Seoul, South Korea
       year: 2018.03. - 2024.02.
       description:
         - Dept. of Mechanical Engineering
@@ -47,27 +45,21 @@
         year: 2022.09. - 2023.02.
         description:
           - Autonomous driving project internship
-          - Analyzed and reviewed research and papers about Stereo vision, Semi-Global Matching and so on.
+          - Analyzed and reviewed research and papers about Stereo vision, Semi-Global Matching and so on
           - 3D mapping using zed2i stereo camera using ROS1
         
       - title: Undergraduate Researcher
         institution: Innovative Design and Integrated Manufacturing Lab, Dept. of Mechanical Engineering, SNU
         year: 2022.09. - 2023.12.
         description:
-          - Developing collaborative robot system based on voice command.
-          - Construction of a system to control Doosan's robot arm using voice commands API and ROS1.
+          - Developing collaborative robot system based on voice command
+          - Construction of a system to control Doosan's robot arm using voice commands API and ROS1
     
       - title: Exchange Student
         institution: Technical University of Munich (TUM), Germany
         year: 2023.03. - 2023.08.
         description:
           - Dept. of Mechanical Engineering
-    
-      - title: Undergraduate Researcher
-        institution: MORIN Lab, Dept. of Mechanical Engineering, KAIST
-        year: 2018 - 2018
-        description:
-          - ROS-based Communication Program Development and Jig Hardware Design for Drone Cameras
 
 - title: Work Experience
   type: time_table
@@ -75,35 +67,35 @@
       - title: Sequor Robotics, Robot Software and Hardware Solutions Startup
         year: 2023.04. - 2023.08.
         description:
-          - Industry-academic cooperation project.
-          - Analyzed and reviewed research and papers about Stereo vision, Semi-Global Matching and so on.
-          - Pedestrian trajectory prediction algorithm development.
+          - Industry-academic cooperation project
+          - Analyzed and reviewed research and papers about Stereo vision, Semi-Global Matching and so on
+          - Pedestrian trajectory prediction algorithm development
         
       - title: SUM, Self-driving Startup Internship Field Practice
         year: 2023.01. - 2023.02.
         description:
-          - Practice on positioning process using Kalman filter based on sensor data.
-          - Distant object tracking algorithm using Lidar, Radar and Vision.
-          - CARLA simulation open scenario production.
-          - PID controller design practice using Simulink to implement lateral and longitudinal control.
+          - Practice on positioning process using Kalman filter based on sensor data
+          - Distant object tracking algorithm using Lidar, Radar and Vision
+          - CARLA simulation open scenario production
+          - PID controller design practice using Simulink to implement lateral and longitudinal control
     
       - title: Hyundai America Technical Center, Inc. Headquaters Global Internship
         year: 2022.06. - 2022.07.
         description:
-          - Benchmarking, development projects in several departments including AD department.
-          - Lab tour and experience various departments.
+          - Benchmarking, development projects in several departments including AD department
+          - Lab tour and experience various departments
     
       - title: Visual Camp, Eye Tracking Technology Startup Internship                                          
         year: 2022.05. - 2022.06.
         description:
-          - App planner/developer.
-          - Business proposal to enter the global market.
+          - App planner/developer
+          - Business proposal to enter the global market
           
       - title: Research Assistant of Hyundai, SNU’s Industrial Cooperation Group                                           
         year: 2022.03. - 2022.05
         description:
-          - Produce a report that summarizes the latest technology trends.
-          - Class assistant work and class-related administrative work.
+          - Produce a report that summarizes the latest technology trends
+          - Class assistant work and class-related administrative work
 
 - title: Presentations
   type: time_table
@@ -124,7 +116,7 @@
       year: 2023.11.
       description:
         - Creative Fair, College of Engineering, Seoul National University                      
-        - Developing a health trainer robot using Gyro sensor, ultrasonic sensor, camera, and Python.
+        - Developing a health trainer robot using Gyro sensor, ultrasonic sensor, camera, and Python
 
 - title: Honors and Awards
   type: time_table
