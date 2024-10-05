@@ -18,7 +18,7 @@
     - title: 
       description: 
         - Autonomous Driving
-        - Radar, LiDAR SLAM
+        - Radar SLAM
         - Sensor Fusion
         - Deep Learning
    
@@ -72,14 +72,14 @@
 - title: Work Experience
   type: time_table
   contents:
-      - title: Sequor Robotics, Robot software and hardware solutions startup
+      - title: Sequor Robotics, Robot Software and Hardware Solutions Startup
         year: 2023.04. - 2023.08.
         description:
           - Industry-academic cooperation project.
           - Analyzed and reviewed research and papers about Stereo vision, Semi-Global Matching and so on.
           - Pedestrian trajectory prediction algorithm development.
         
-    - title: SUM, Self-driving startup Internship Field practice
+    - title: SUM, Self-driving Startup Internship Field Practice
       year: 2023.01. - 2023.02.
       description:
         - Practice on positioning process using Kalman filter based on sensor data.
@@ -93,7 +93,7 @@
         - Benchmarking, development projects in several departments including AD department.
         - Lab tour and experience various departments.
     
-    - title: Visual Camp, eye tracking technology startup Internship                                          
+    - title: Visual Camp, Eye Tracking Technology Startup Internship                                          
       year: 2022.05. - 2022.06.
       description:
         - App planner/developer.
@@ -104,22 +104,10 @@
       description:
         - Produce a report that summarizes the latest technology trends.
         - Class assistant work and class-related administrative work.
-        
-      - title: Visual Camp, eye tracking technology startup Internship                                          
-      year: 2018 - 2018
-      description:
-        - App planner/developer.
-        - Business proposal to enter the global market.
 
 - title: Presentations
   type: time_table
   contents:
-    # - title: Oral Presentation
-    #   year: 2024.10.
-    #   description:
-    #     - Regular Paper Oral Presentation in ICRA
-    #     - Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact
-
     - title: Poster Presentation
       year: 2024.05.
       description:
@@ -131,6 +119,12 @@
       description:
         - Poster Presentation in KSPE 2023 Autumn Conference
         - Developing a vision-based collaborative robot automation and voice control system using autonomous mobile robot arms
+
+    - title: Project Presentation
+      year: 2023.11.
+      description:
+        - Creative Fair, College of Engineering, Seoul National University                      
+        - Developing a health trainer robot using Gyro sensor, ultrasonic sensor, camera, and Python.
 
 - title: Honors and Awards
   type: time_table
