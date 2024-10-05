@@ -36,6 +36,12 @@
       description:
         - Dept. of Mechanical Engineering
         - Being Advised by Dr. Sung-Hoon Ahn
+        
+    - title: Exchange Student
+      institution: Technical University of Munich, Germany
+      year: 2023.03. - 2023.08.
+      description:
+        - Dept. of Mechanical Engineering
     
 - title: Research Experience
   type: time_table
@@ -54,12 +60,6 @@
         description:
           - Developing collaborative robot system based on voice command
           - Construction of a system to control Doosan's robot arm using voice commands API and ROS1
-    
-      - title: Exchange Student
-        institution: Technical University of Munich (TUM), Germany
-        year: 2023.03. - 2023.08.
-        description:
-          - Dept. of Mechanical Engineering
 
 - title: Work Experience
   type: time_table
