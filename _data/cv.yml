@@ -4,64 +4,64 @@
     - name: Full Name
       value: Hanjun Kim
     - name: Date of Birth
-      value: 30th January 1998
+      value: 15th August 1998
     - name: Languages
       value: Korean, English
     - name: Skills (Advanced)
       value: C/C++, Python, MATLAB, ROS, PyTorch, Latex
     - name: Skills (Novice)
-      value: Solidworks, Java, Scala, Rust, Assembly
+      value: Solidworks, Assembly
 
 - title: Field of Interest
   type: time_table
   contents:
     - title: 
       description: 
+        - Autonomous Driving
         - Radar, LiDAR SLAM
-        - Legged Robot
         - Sensor Fusion
         - Deep Learning
    
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. Candidate
-      institution: Seoul National University (SNU), Seoul, South Korea
-      year: 2023 - Now
-      description:
-        - Mechanical Engineering
-        - Being Advised by Dr. Ayoung Kim
-
     - title: M.S.
       institution: Seoul National University (SNU), Seoul, South Korea
-      year: 2023.08.
+      year: 2024.03. - Now
       description:
-        - Mechanical Engineering
-        - Advised by Dr. Ayoung Kim 
-        - title: Dissertation
-          contents:
-            - Radar Odometry for Quadrupedal Robot using Gravity
-    
+        - Dept. of Future Automotive Mobility
+        - Being Advised by Dr. Ayoung Kim
+
     - title: B.S.
-      institution: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea
-      year: 2021.02.
+      institution: Seoul National University (SNU), Seoul, South Korea
+      year: 2018.03. - 2024.02.
       description:
-        - Mechanical Engineering
-        - Computer Science
-        - Advised by Dr. Seong Su Kim
+        - Dept. of Mechanical Engineering
+        - Advised by Dr. Sung-Hoon Ahn
     
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Undergraduate Researcher
-      institution: IRAP(current RPM Lab in SNU), Dept. of Civil & Environmental Engineering, KAIST
-      year: 2020 - 2021
+      - title: Undergraduate Researcher
+      institution: Artificial Intelligence Semiconductor Engineering Lab, Dept. of Mechanical Engineering, SNU
+      year: 2022.09. - 2023.02.
       description:
-        - LiDAR-based UGV Sensing System Build and Multiple Experiments in Unstructured Environments
+        - Autonomous driving project internship
+        - Analyzed and reviewed research and papers about Stereo vision, Semi-Global Matching and so on.
+        - 3D mapping using zed2i stereo camera using ROS1
+        
+    - title: Undergraduate Researcher
+      institution: Innovative Design and Integrated Manufacturing Lab, Dept. of Mechanical Engineering, SNU
+      year: 2022.09. - 2023.12.
+      description:
+        - Developing collaborative robot system based on voice command.
+        - Construction of a system to control Doosan's robot arm using voice commands API and ROS1.
     
     - title: Exchange Student
-      institution: KTH Royal Institute of Technology, Stockholm, Sweden
-      year: 2019 - 2020
+      institution: Technical University of Munich (TUM), Germany
+      year: 2023.03. - 2023.08.
+      description:
+        - Dept. of Mechanical Engineering
     
     - title: Undergraduate Researcher
       institution: MORIN Lab, Dept. of Mechanical Engineering, KAIST
@@ -75,34 +75,59 @@
     # - title: Oral Presentation
     #   year: 2024.10.
     #   description:
-    #     - Regular Paper Oral Presentation in IROS
+    #     - Regular Paper Oral Presentation in ICRA
     #     - Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact
 
     - title: Poster Presentation
-      year: 2024.07.
+      year: 2024.05.
       description:
-        - Work-in-Progress Paper in UR
-        - Toward 6D Velocity Estimation for Legged Robot using Rolling Motion
-    
+        - Late-Breaking Result in ICRA 2024
+        - Vision-based collaborative robot automation and voice control system using mobile robot arms
+        
     - title: Poster Presentation
-      year: 2023.10.
+      year: 2023.11.
       description:
-        - Novel Sensors for Autonomous Vehicle Perception Workshop in IROS
-        - CycleGAN-based Imaging Radar to LiDAR Image-Translation for 2D Extrinsic Calibration
-    
-    - title: Poster Presentation
-      year: 2022.10.
-      description:
-        - Late-Breaking Result in IROS
-        - 6D Instantaneous Velocity for Legged Robot using Rolling Motion
+        - Poster Presentation in KSPE 2023 Autumn Conference
+        - Developing a vision-based collaborative robot automation and voice control system using autonomous mobile robot arms
 
-- title: Services
+- title: Honors and Awards
   type: time_table
   contents:
-    - title: Reviewer
+    - title: Excellent Research Award
+      year: 2024.03.
+      description:
+        - Dept. of System Semiconductor Engineering for AI, SNU
+        - Autonomous Driving Project
+        
+    - title: Outstanding BS Thesis Award
+      year: 2023.12.
+      description:
+        - Dept. of Mechanical Engineering, SNU
+        - Vision-based collaborative robot automation and voice control system using mobile robot arms
+
+    - title: Grand Prize
+      year: 2022.12.
+      description:
+        - Seoul National University X Hyundai Doosan Infracore Mechatronics Competition
+        - Filter-based wireless wearable controller
+
+    - title: The Action Leadership Award in Seoul National University GECE 
+      year: 2019.05.
+      description:
+        - Global Education Center For Engineers, SNU
+        
+    - title: Semi Finalist in the 7th U.S. Embassy Seoul UCC Contest
+      year: 2017.02.
       description: 
-        - IEEE Robotics and Automation Letters (RA-L)
-        - IEEE International Conference on Robotics and Automation (ICRA)
-        - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-        - IEEE International Conference on Ubiquitous Robots (UR)
-        - Intelligent Service Robotics (ISR)
+        - U.S. Embassy, Seoul
+      
+# - title: Services
+#   type: time_table
+#   contents:
+#     - title: Reviewer
+#       description: 
+#         - IEEE Robotics and Automation Letters (RA-L)
+#         - IEEE International Conference on Robotics and Automation (ICRA)
+#         - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+#         - IEEE International Conference on Ubiquitous Robots (UR)
+#         - Intelligent Service Robotics (ISR)
