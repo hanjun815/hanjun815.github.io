@@ -69,6 +69,48 @@
       description:
         - ROS-based Communication Program Development and Jig Hardware Design for Drone Cameras
 
+- title: Work Experience
+  type: time_table
+  contents:
+      - title: Sequor Robotics, Robot software and hardware solutions startup
+        year: 2023.04. - 2023.08.
+        description:
+          - Industry-academic cooperation project.
+          - Analyzed and reviewed research and papers about Stereo vision, Semi-Global Matching and so on.
+          - Pedestrian trajectory prediction algorithm development.
+        
+    - title: SUM, Self-driving startup Internship Field practice
+      year: 2023.01. - 2023.02.
+      description:
+        - Practice on positioning process using Kalman filter based on sensor data.
+        - Distant object tracking algorithm using Lidar, Radar and Vision.
+        - CARLA simulation open scenario production.
+        - PID controller design practice using Simulink to implement lateral and longitudinal control.
+    
+    - title: Hyundai America Technical Center, Inc. Headquaters Global Internship
+      year: 2022.06. - 2022.07.
+      description:
+        - Benchmarking, development projects in several departments including AD department.
+        - Lab tour and experience various departments.
+    
+    - title: Visual Camp, eye tracking technology startup Internship                                          
+      year: 2022.05. - 2022.06.
+      description:
+        - App planner/developer.
+        - Business proposal to enter the global market.
+        
+    - title: Research Assistant of Hyundai, SNU’s Industrial Cooperation Group                                           
+      year: 2022.03. - 2022.05
+      description:
+        - Produce a report that summarizes the latest technology trends.
+        - Class assistant work and class-related administrative work.
+        
+      - title: Visual Camp, eye tracking technology startup Internship                                          
+      year: 2018 - 2018
+      description:
+        - App planner/developer.
+        - Business proposal to enter the global market.
+
 - title: Presentations
   type: time_table
   contents:
