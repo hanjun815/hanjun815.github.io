@@ -318,20 +318,24 @@ scholar:
 
   style: apa
   locale: en
-
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: papers_selected.bib
+  bibliography_international_journals: papers_inter_journal.bib
+  bibliography_international_conferences: papers_inter_conf.bib
+  bibliography_domestic_journals: papers_domes_journal.bib
+  bibliography_thesis: papers_thesis.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
   bibtex_filters: [latex, smallcaps, superscript]
-
+  
   replace_strings: true
   join_strings: true
 
   details_dir: bibliography
   details_link: Details
+
 
   query: "@*"
   group_by: year
