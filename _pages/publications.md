@@ -8,6 +8,10 @@ nav_order: 2
 toc:
   sidebar: left
 ---
+## International Journals
+<div class="publications">
+{% bibliography -f {{ site.scholar.bibliography_international_journals }} %}
+</div>
 
 ## International Conferences
 <div class="publications">
@@ -19,7 +23,3 @@ toc:
 {% bibliography -f {{ site.scholar.bibliography_thesis }} %}
 </div>
 
-## International Journals
-<div class="publications">
-{% bibliography -f {{ site.scholar.bibliography_international_journals }} %}
-</div>
