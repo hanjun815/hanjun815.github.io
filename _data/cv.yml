@@ -16,16 +16,23 @@
     - title: 
       description: 
         - Autonomous Driving
-        - Radar SLAM
+        - SLAM
         - Sensor Fusion
         - Deep Learning
    
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D.
+      institution: Seoul National University, Seoul, South Korea
+      year: 2026.03. - Now
+      description:
+        - Dept. of Mechanical Engineering
+        - Being Advised by Dr. Ayoung Kim
+  
     - title: M.S.
       institution: Seoul National University, Seoul, South Korea
-      year: 2024.03. - Now
+      year: 2024.03. - 2026.02.
       description:
         - Dept. of Future Automotive Mobility
         - Being Advised by Dr. Ayoung Kim
